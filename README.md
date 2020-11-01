@@ -10,6 +10,7 @@ The data given is a time-series dataset consisting of daily sales data, kindly p
 * items.csv - supplemental information about the items/products.
 * item_categories.csv  - supplemental information about the items categories.
 * shops.csv- supplemental information about the shops.
+Unfortunately ,the sales_train.csv has not been included in the repository because of its large size.Please download the dataset from the Kaggle page https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
 
 
 # Data fields
